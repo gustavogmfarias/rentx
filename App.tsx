@@ -13,6 +13,7 @@ import {
 } from "@expo-google-fonts/inter";
 import AppLoading from "expo-app-loading";
 import theme from "./styles/theme";
+import { CarDetails } from "./src/screens/CarDetails";
 
 export default function App() {
   const [fontsLoaded] = useFonts({
@@ -29,7 +30,7 @@ export default function App() {
 
   return (
     <ThemeProvider theme={theme}>
-      <Home />
+      <CarDetails />
     </ThemeProvider>
   );
 }
