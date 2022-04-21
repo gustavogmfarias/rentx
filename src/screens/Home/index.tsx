@@ -16,7 +16,7 @@ export default function Home() {
       price: 50,
     },
     thumbnail:
-      "https://e7.pngegg.com/pngimages/790/861/png-clipart-2018-audi-rs-5-car-audi-s5-audi-a5-audi-rs5-car-performance-car.png",
+      "http://imagenspng.com/wp-content/uploads/imagem-de-carros-em-png-Imagem-sem-fundo-1.png",
   };
 
   const car2 = {
@@ -27,7 +27,7 @@ export default function Home() {
       price: 50,
     },
     thumbnail:
-      "https://e7.pngegg.com/pngimages/790/861/png-clipart-2018-audi-rs-5-car-audi-s5-audi-a5-audi-rs5-car-performance-car.png",
+      "http://imagenspng.com/wp-content/uploads/imagem-de-carros-em-png-Imagem-sem-fundo-1.png",
   };
 
   return (
